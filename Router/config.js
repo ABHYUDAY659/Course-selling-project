@@ -1,6 +1,6 @@
-const JWT_USER_PASSWORD = "aladinn123";
+const JWT_USER_PASSWORD = "";
 
-const JWT_admin_password = 'youareadmin';
+const JWT_admin_password = '';
 
 
 modeule.exports ={
